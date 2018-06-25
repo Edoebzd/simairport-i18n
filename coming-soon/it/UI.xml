@@ -7,19 +7,19 @@
     <LoadingBar>Caricamento...</LoadingBar>
     
     <i18n>
-        <en>English</en>
-        <de>German</de>
-        <nl>Dutch</nl>
-        <fr>French</fr>
-        <zh>Chinese Simplified</zh>
+        <en>Inglese</en>
+        <de>Tedesco</de>
+        <nl>Olandese</nl>
+        <fr>Francese</fr>
+        <zh>Cinese Semplificato</zh>
         <it>Italiano</it>
     </i18n>
     
     <modal>
         <EADialog>
-            <btn_forums>Discussion Forums</btn_forums>
-            <btn_report>Report a Bug</btn_report>
-            <btn_steam>Steam Workshop</btn_steam>
+            <btn_forums>Forum di Discussione</btn_forums>
+            <btn_report>Reporta un Bug</btn_report>
+            <btn_steam>Workshop di Steam</btn_steam>
             <text>Benvenuto su SimAirport Early Access! Speriamo che tu ti diverta con il gioco.  Ti invitiamo a visitare il forum, essere attivo; partecipare nella community, e prendere parte in modo attivo al processo di sviluppo, insieme agli sviluppatori.
         
 Grazie per il tuo supporto e per l'aiuto che ci dai per far diventare SimAirport il migliore gioco gestionale tycoon mai creato!</text>
@@ -30,7 +30,7 @@ Grazie per il tuo supporto e per l'aiuto che ci dai per far diventare SimAirport
             <optionsbtn>Opzioni</optionsbtn>
             <exitbtn>Esci da SimAirport</exitbtn>
             <copyright>Copyright 2018, LVGameDev LLC.  Tutti i diritti riservati.  
-SimAirport is a trademark of LVGameDev LLC.</copyright>
+SimAirport è un marchio di LVGameDev LLC.</copyright>
         </mainmenu>
         <game>
             <new>
@@ -46,7 +46,7 @@ SimAirport is a trademark of LVGameDev LLC.</copyright>
                         <desc3>Bancarotta e fine della partita se rimani in negativo per 48 ore</desc3>
                         <desc4>Inizia con una mappa di medie dimensioni</desc4>
                         <desc5>Fondi illimitati, no fallimento!</desc5>
-                        <desc6>Money IS still tracked</desc6>
+                        <desc6>Le monete vengono conteggiate</desc6>
                         <desc7>Puoi continuare a spendere, anche con un bilancio negativo</desc7>
                         <desc8>Il gioco non finisce mai per il fallimento</desc8>
                     </tt>
@@ -83,10 +83,10 @@ SimAirport is a trademark of LVGameDev LLC.</copyright>
                     <desc>Solo un momento mentre salviamo la partita...</desc>
                 </step1>
                 <step2>
-                    <title>Saved!</title>
+                    <title>Salvato!</title>
                     <desc>La partita è stata salvata con successo.</desc>
                 </step2>
-                <edgeBranchNotice>Come misira precauzionaria, è proibito sovrascrivere i file nelle versioni Edge di SimAirport. Perfavore scegli un nuovo nome per il tuo salvataggio.</edgeBranchNotice>
+                <edgeBranchNotice>Come misura precauzionaria, è proibito sovrascrivere i file nelle versioni Edge di SimAirport. Perfavore scegli un nuovo nome per il tuo salvataggio.</edgeBranchNotice>
                 <overwrite>Sovrascrivere un altro salvataggio?</overwrite>
                 <search>Visualizza {0} di {1} salvataggi che contengono "{2}".
 Per visualizzare tutti i salvataggi, Cancella il nome del file nella casella sopra.</search>
@@ -109,7 +109,7 @@ Questo eliminerà per sempre il salvataggio dal tuo computer. Sei SICURO di vole
                 <title>Impostazioni Grafiche</title>
                 <weather>Effetti Grafici del Meteo</weather>
                 <daynightcycle>Ciclo Giorno/Notte</daynightcycle>
-                <shadowsAO>Shadows and AO</shadowsAO>
+                <shadowsAO>Ombre e AO</shadowsAO>
                 <fullscreen>Modalità a Schermo Intero</fullscreen>
                 <resolution>Risoluzione</resolution>
                 <quality>Qualità</quality>
@@ -119,72 +119,72 @@ Questo eliminerà per sempre il salvataggio dal tuo computer. Sei SICURO di vole
                 <reschange2>Si ripristineranno in {0} secondi...</reschange2>
             </graphics>
             <camera>
-                <title>Camera (Zoom/Pan)</title>
-                <edgescroll>Edge Hover Scrolling</edgescroll>
-                <zoomcentering>Zoom Centering</zoomcentering>
-                <cameracenter>Camera Center</cameracenter>
-                <mouseposition>Mouse Position</mouseposition>
-                <mousepan>Middle Mouse Pan</mousepan>
-                <zoomspeed>Zoom Speed</zoomspeed>
-                <panspeed>Pan Speed</panspeed>
+                <title>Camera (Zoom/Spostamento)</title>
+                <edgescroll>Scorrimento Oltre I Bordi</edgescroll>
+                <zoomcentering>Centraggio Zoom</zoomcentering>
+                <cameracenter>Centraggio Camera</cameracenter>
+                <mouseposition>Posizione Del Mouse</mouseposition>
+                <mousepan>Spostamento Mouse</mousepan>
+                <zoomspeed>Velocità Di Zoom</zoomspeed>
+                <panspeed>Velocità Di Scorrimento</panspeed>
             </camera>
             <autosave>
-                <title>Auto-save</title>
+                <title>Auto-Salvataggio</title>
             </autosave>
             <sound>
-                <title>Sound</title>
-                <game>Game Volume</game>
-                <crowd>Crowd Volume</crowd>
+                <title>Suoni</title>
+                <game>Volume Di Gioco</game>
+                <crowd>Volume Della Folla</crowd>
             </sound>
             <gameplay>
-                <title>Gameplay</title>
-                <timeformat>Clock/Time Display</timeformat>
-                <timeformat0>{0}-Hour ({1})</timeformat0>
-                <language>Language</language>
-                <language2>For best results, please restart SimAirport after changing language.</language2>
-                <zoneoverlays>Zone Overlays</zoneoverlays>
-                <autofocusbuildmenus>Build Menus: Search Auto-Focus</autofocusbuildmenus>
-                <holiday>Holiday Visuals</holiday>
-                <reset>Reset ALL Window Positions</reset>
-                <resetbtn>Reset All Positions</resetbtn>
+                <title>Gioco</title>
+                <timeformat>Visualizzazione Ora/Orologio</timeformat>
+                <timeformat0>{0}-Ore ({1})</timeformat0>
+                <language>Lingua</language>
+                <language2>Per migliori risultati, perfavore riavvia SimAirport dopo il cambiamento della lingua.</language2>
+                <zoneoverlays>Overlay Zone</zoneoverlays>
+                <autofocusbuildmenus>Finestra Costruzione: Ricerca Auto-Focus</autofocusbuildmenus>
+                <holiday>Visuale Delle Vacanze</holiday>
+                <reset>Resetta lLa Posizione Di TUTTE Le Finestre</reset>
+                <resetbtn>Resetta Tutte Le Posizioni</resetbtn>
             </gameplay>
             <hotkeys>
-                <title>Hotkey Bindings</title>
-                <col0>Keyboard Key</col0>
-                <col1>Game Function</col1>
-                <reset0>Reset ALL</reset0>
-                <reset1>Reset to DEFAULTS</reset1>
+                <title>Controlli Tastiera</title>
+                <col0>Tasto</col0>
+                <col1>Funzione</col1>
+                <reset0>Resetta TUTTI</reset0>
+                <reset1>Resetta a DEFAULT</reset1>
             </hotkeys>
         </options>
         <mods>
-            <test>Load Test Airport</test>
+            <test>Carica Areoporto Di Test</test>
             <steam>
-                <title>Upload &amp; Share on Steam Workshop</title>
-                <name>Name</name>
-                <description>Optional description...</description>
-                <ship>Save &amp; Publish</ship>
-                <success>Success!</success>
-                <fail>Failed!</fail>
-                <downloaded>Downloaded</downloaded>
-                <downloading>Downloading...</downloading>
-                <e_connect>Not connected to Steam.</e_connect>
-                <e_validate>Item title cannot be empty.</e_validate>
-                <e_inprog>Another upload is already in progress.</e_inprog>
-                <e_unknown>Unexpected response in item: {0}</e_unknown>
-                <e_exception>Something went wrong... Please let the devs know!</e_exception>
-                <step0>Preparing...</step0>
-                <step1>Creating save...</step1>
-                <step2>Creating preview...</step2>
-                <step3>Uploading...</step3>
-                <step4>Preparing Config</step4>
-                <step5>Preparing Content</step5>
-                <step6>Uploading Content</step6>
-                <step7>Uploading Preview File</step7>
-                <step8>Committing Changes</step8>
-                <step9>Done</step9>
-                <step10>Validating Mod...</step10>
-                <desc0>Please wait while we save your game, upload it to Steam, and Publish it on the SimAirport Workshop!</desc0>
-                <desc1>Your item has been updated.</desc1>
+                <title>Carica &amp; Condividi sul Workshop di Steam</title>
+                <name>Nome</name>
+                <description>Descrizione facoltativa...</description>
+                <ship>Salva &amp; Pubblica</ship>
+                <success>Successo!</success>
+                <fail>Fallito!</fail>
+                <downloaded>Scaricato</downloaded>
+                <downloading>Scaricamento...</downloading>
+                <e_connect>Non connesso a steam.</e_connect>
+                <e_validate>Il titolo non può essere vuoto.</e_validate>
+                <e_inprog>Un altro upload è già in corso.</e_inprog>
+                <e_unknown>risposta inaspettata nell'oggetto: {0}</e_unknown>
+                <e_exception>Qualcosa è andato storto... Per favore fallo sapere agli sviluppatori!</e_exception>
+                <step0>Preparando...</step0>
+                <step1>Creando salvataggio...</step1>
+                <step2>Creando anteprima...</step2>
+                <step3>Caricando...</step3>
+                <step4>Preparando configurazioni</step4>
+                <step5>Preparando contenuto</step5>
+                <step6>Caricando contenuto</step6>
+                <step7>Caricando anteprima</step7>
+                <step8>Consegnaando cambiamenti</step8>
+                <step9>Fatto</step9>
+                <step10>Convalidando Mod...</step10>
+                <desc0>Per favora attendi mentre salviamo il gioco, caricalo su Steam, e pubblicalo sul Workshop di Steam!</desc0>
+                <desc1>Il tuo oggetto è stato aggiornato.</desc1>
                 <desc2>Please wait while process &amp; upload your mod to Steam -- and Publish it on the SimAirport Workshop!</desc2>
                 <desc3>Your item is now published to the workshop.</desc3>
                 <tt>
