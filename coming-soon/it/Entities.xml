@@ -2,90 +2,91 @@
     <Agents>
         <CFO>
             <name>CFO</name>
-            <description>Chief Financial Officer - Allows you to research finance related upgrades and abilities such as bank loans &amp; improved financial reporting.</description>
+            <description>Direttore Finanziario - 
+Ti consente di ricercare gli aggiornamenti e le abilità relative alla finanza come i prestiti bancari &amp; rapporti finanziari migliorati.</description>
         </CFO>
         <COO>
             <name>COO</name>
-            <description>Chief Operations Officer - Allows you to research operations and logistics related upgrades and tools.</description>
+            <description>Direttore Operativo - Ti permette di ricercare operazioni, aggiornamenti e strumenti relativi alla logistica.</description>
         </COO>
         <CTO>
             <name>CTO</name>
-            <description>Chief Technology Officer - Allows you to research technology related upgrades and provides access to objects such as public address systems &amp; other improved technological objects.</description>
+            <description>Direttore Tecnologico - Ti consente di effettuare ricerche sugli aggiornamenti tecnologici e di accedere a oggetti come i sistemi di indirizzi pubblici &amp; e altri oggetti tecnologici migliorati.</description>
         </CTO>
         <FinanceVP>
             <name>Finance VP</name>
-            <description>Vice President of Finance - Allows you to 'research' tax related improvements and can help keep wheels greased.</description>
+            <description>Vicepresidente Finanziario - Ti consente di "ricercare" i miglioramenti delle tasse e può aiutare a mantenere le ruote unte.</description>
         </FinanceVP>
         <FlightAttendant>
-            <name>Flight Attendant</name>
-            <description></description>
+            <name>Assistente di Volo</name>
+            <description></descripti1on>
         </FlightAttendant>
         <FoodWorker>
-            <name>Food Worker</name>
-            <description>Takes and prepares orders in Retail zones.</description>
+            <name>Addetto al Cibo</name>
+            <description>Prende e prepara gli ordini nella zona di vendita.</description>
         </FoodWorker>
         <Foreman>
-            <name>Foreman</name>
-            <description>Construction Foreman - Allows you to research construction related upgrades &amp; abilities, such as intersecting runways and more.</description>
+            <name>Caposquadra</name>
+            <description>Caposquadra dei costruttori - Ti permette di ricercare aggiornamenti relativi alla costruzione &amp; abilities, abilità, come le piste che si intersecano e altro ancora.</description>
         </Foreman>
         <Janitor>
-            <name>Janitor</name>
-            <description>Cleans up trash around the airport, schedules garbage pickup to avoid getting shut down.</description>
+            <name>Addetto alle Pulizie</name>
+            <description>Pulisce la spazzatura per l'aeroporto, pianifica la raccolta dei rifiuti per evitare la chiusura.</description>
         </Janitor>
         <Laborer>
-            <name>Laborer</name>
+            <name>Labvoratore</name>
             <description></description>
         </Laborer>
         <Passenger>
-            <name>Passenger</name>
+            <name>Passeggero</name>
             <description></description>
         </Passenger>
         <Pilot>
-            <name>Pilot</name>
+            <name>Pilota</name>
             <description></description>
         </Pilot>
         <RampAgent>
-            <name>RampAgent</name>
-            <description>Aircraft STUCK?  Ramp agent to the rescue!  They help "un-stick" all the aircraft on the ground for a small one-time fee.  When their work is done, they'll leave.   Also known as the "Golden Towbar Award".</description>
+            <name>Agente di Rampa</name>
+            <description>Aereo bloccato?  Agente di Rampa in soccorso!  Aiutano a "sbloccare" tutti gli aerei a terra per una piccola tassa pagata una volta.  Quando il loro lavoro sarà finito, se ne andranno.   Conosciuto anche come "Golden Towbar Award".</description>
         </RampAgent>
         <Security>
-            <name>Security</name>
-            <description>Clears bags and passengers as they make it through the airport.</description>
+            <name>Sicurezza</name>
+            <description>Controlla borse e passeggeri mentre attraversano l'aeroporto.</description>
         </Security>
         <Staff>
             <name>Staff</name>
-            <description>Handles customer service positions, including operating desks.</description>
+            <description>Gestisce le posizioni del servizio clienti, compresi i banchi dei gate.</description>
         </Staff>
         <VendorWorker>
-            <name>VendorWorker</name>
+            <name>Addetto alle Vendite</name>
             <description></description>
         </VendorWorker>
         <Workman>
-            <name>Workman</name>
-            <description>Handles all construction related tasks.</description>
+            <name>Costruttore</name>
+            <description>Gestisce tutte le attività relative alla costruzione.</description>
         </Workman>
         <BaggageCar>
-            <name>Baggage Car</name>
+            <name>Auto Bagagli</name>
             <description><!-- not used --></description>
         </BaggageCar>
         <BaggageCarTest>
-            <name>Baggage Car Test</name>
+            <name>Auto Bagagli Test</name>
             <description><!-- not used --></description>
         </BaggageCarTest>
         <DeliveryTruck>
-            <name>Delivery Truck</name>
+            <name>Camion Consegne</name>
             <description><!-- not used --></description>
         </DeliveryTruck>
         <FuelDeliveryTruck>
-            <name>Fuel Delivery Truck</name>
+            <name>Camion Consegne Carburante</name>
             <description><!-- not used --></description>
         </FuelDeliveryTruck>
         <FuelTruck>
-            <name>Fuel Truck</name>
+            <name>Camion Carburante</name>
             <description><!-- not used --></description>
         </FuelTruck>
         <GarbageTruck>
-            <name>Garbage Truck</name>
+            <name>Camion della Spazzatura</name>
             <description><!-- not used --></description>
         </GarbageTruck>
         <GolfCart>
@@ -93,19 +94,19 @@
             <description><!-- not used --></description>
         </GolfCart>
         <PassengerBus>
-            <name>Passenger Bus</name>
+            <name>Bus Passeggeri</name>
             <description><!-- not used --></description>
         </PassengerBus>
         <PassengerTaxi>
-            <name>Passenger Taxi</name>
+            <name>Taxi Passeggeri</name>
             <description><!-- not used --></description>
         </PassengerTaxi>
         <PassengerVehicle>
-            <name>Passenger Vehicle</name>
+            <name>Veicolo Passeggeri</name>
             <description><!-- not used --></description>
         </PassengerVehicle>
         <SupplyTruck>
-            <name>Supply Truck</name>
+            <name>Camion Rifornimenti</name>
             <description><!-- not used --></description>
         </SupplyTruck>
     </Agents>
@@ -113,38 +114,38 @@
         <generic>
             <AircraftGate>Aircraft Gate</AircraftGate>
             <ConveyorTransition>Conveyor Transition</ConveyorTransition>
-            <Stairs>Stairway</Stairs>
-            <Escalator>Escalator</Escalator>
+            <Stairs>Scala</Stairs>
+            <Escalator>Scala Mobile</Escalator>
         </generic>
         
         <!-- non-placeable -->
         <DirtyFloor>
-            <name>Dirty Floor</name>
+            <name>Pavimento Sporco</name>
         </DirtyFloor>
         <TrashBag>
-            <name>Trash Bag</name>
+            <name>Sacco di Spazzatura</name>
         </TrashBag>
         
         
         <!-- runway upgrades -->
         <RunwayApproachLights>
-            <name>Runway Approach Lights</name>
+            <name>Luci di Avvicinamento Pista</name>
             <description></description>
         </RunwayApproachLights>
         <RunwayILS>
-            <name>Runway ILS</name>
-            <description>Instrument Landing System allows larger airliners to conduct a precision instrument approach.  Maximum crosswind tolerance is increased from 12 to 20 Kt. This means fewer weather delays &amp; a lower risk of weather-related incidents.  It'll also help you attract the 'Big Boy' airlines.</description>
+            <name>ILS Pista</name>
+            <description>Instrument Landing System permette agli aerei più grandi di atterrare con precisione. Crosswind massimo aumentato da 12Kt a 20Kt. Questo significa meno ritardi per il meteo &amp; un rischio più basso di incidenti legati al meteo.  Ti aiuta anche ad attrarre le compagnie aeree maggiori.</description>
         </RunwayILS>
         <RunwayLights>
-            <name>Runway Lights</name>
-            <description>Runway lights allow for night operations at your airport.</description>
+            <name>Luci Pista</name>
+            <description>Le luci nella pista permettono le operazioni notturne.</description>
         </RunwayLights>
         <RunwayPAPI>
-            <name>Runway PAPI</name>
-            <description>Precision Approach Path Indicator provides a visual indicator to pilots of their approach angle, resulting in increased safety. Maximum crosswind tolerance is also increased from 12 to 15 Kt.</description>
+            <name>PAPI pista</name>
+            <description>Precision Approach Path Indicator fornisce un indicatore visivo ai piloti riguardo all percorso di discesa, aumentando la sicurezza. Crosswind massimo aumentato da 12Kt a 15Kt.</description>
         </RunwayPAPI>
         <Windsock>
-            <name>Windsock</name>
+            <name>Manica a Vento</name>
             <description></description>
         </Windsock>
         
